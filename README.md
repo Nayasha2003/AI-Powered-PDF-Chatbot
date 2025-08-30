@@ -7,6 +7,13 @@ Built with 🦙 Llama 3.1, ⚡ Groq API, 🔗 LangChain, 📊 FAISS, and 🌐 St
 
 📸 Screenshots
 
+![Upload PDF](https://raw.githubusercontent.com/Nayasha2003/AI-Powered-PDF-Chatbot/7f17e85c179bb0d82e0b9b3d2be8809a13b8d8ca/1.jpg)
+
+### Chat with Document
+![Chat with Document](https://raw.githubusercontent.com/Nayasha2003/AI-Powered-PDF-Chatbot/7f17e85c179bb0d82e0b9b3d2be8809a13b8d8ca/2.jpg)
+
+
+
 ## ✨ Features
 - 📂 Upload and process **PDF documents**
 - 💬 **Chat** with your PDF in real-time
